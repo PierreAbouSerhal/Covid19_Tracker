@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Covid19 Tracker</string>
+    <string name="global">Global</string>
+    <string name="choose_your_county">Choose your country to prioritize it</string>
+    <string name="confirm">Confirm</string>
+    <string name="global_updates">Global Updates</string>
+    <string name="confirmed">CONFIRMED</string>
+    <string name="recovered">RECOVERED</string>
+    <string name="textview">TextView</string>
+    <string name="deaths">DEATHS</string>
+    <string name="see_all_countries">See all countries</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="fetching_data_please_wait">Fetching data, please wait...</string>
+    <string name="next">next</string>
+    <string name="msg_token_fmt" />
+
+</resources>

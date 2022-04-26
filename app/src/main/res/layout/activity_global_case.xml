@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".GlobalCaseActivity">
+
+    <fragment
+        android:id="@+id/land_scape_globallist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:name="com.example.covid19tracker.landscape_global_frag"
+        tools:layout="@layout/fragment_landscape_global_frag"
+        >
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/portrait_global"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:name="com.example.covid19tracker.portrait_global_frag"
+        tools:layout="@layout/fragment_portrait_global_frag">
+
+    </fragment>
+
+
+</LinearLayout>

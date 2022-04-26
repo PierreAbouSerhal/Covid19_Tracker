@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="GeneralInfo">
+
+        <item>The main symptoms of COVID‑19 are as follows: fever, a new cough or a cough that gets worse, difficulty breathing, sudden loss of sense of smell without nasal congestion, with or without loss of taste</item>
+        <item>People most at risk of dying from complications are those with a weak immune system  with a chronic disease such as diabetes or heart, lung and kidney disease age 70 and older."</item>
+        <item>There is no specific treatment or vaccine for COVID-19. Supportive treatment may, however, be provided</item>
+        <item>Most people with COVID-19 will recover on their own.</item>
+        <item>In general, coronaviruses do not survive for long on objects. They can survive for around 3 hours on inert objects with dry surfaces and for around 6 days on inert objects with wet surfaces</item>
+        <item>Wash your hands often with soap under warm running water for at least 20 seconds.</item>
+        <item>Use an alcohol-based hand rub if soap and water are not available.</item>
+        <item>Cover your mouth and nose with your arm to reduce the spread of germs.</item>
+        <item>If you are sick, avoid contact with more vulnerable people, including older adults and people with a weak immune system or a chronic disease.</item>
+
+    </string-array>
+
+</resources>
